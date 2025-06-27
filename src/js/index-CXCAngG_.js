@@ -1,0 +1,1 @@
+import{z as c}from"./bootstrap-CbEyMBZc.js";import{c as e,o}from"../jse/index-index-CKHiV3bJ.js";const t={},s={class:"size-full",src:"http://localhost:9090/admin/applications"};function r(a,n){return o(),e("iframe",s)}const _=c(t,[["render",r]]);export{_ as default};
