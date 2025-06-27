@@ -1,0 +1,1 @@
+function a(o){const e={};return o.forEach(l=>{e[l.enumName]=l.value}),e}const s=[{label:"激活",value:1,color:"success",enumName:"Active"},{label:"挂起",value:0,color:"error",enumName:"Suspended"}];a(s);const u=[{label:"已发布",value:1,color:"success"},{label:"未发布",value:0,color:"warning"},{label:"失效",value:9,color:"error"}];export{s as a,u as p};
