@@ -1,0 +1,1 @@
+import{y as t}from"./bootstrap-CbEyMBZc.js";const r={FORM_DATA:"multipart/form-data;charset=UTF-8",FORM_URLENCODED:"application/x-www-form-urlencoded;charset=UTF-8"};function s(o,e){return t.post(o,e,{data:e,headers:{"Content-Type":r.FORM_URLENCODED},isTransformResponse:!1,responseType:"blob"})}export{r as C,s as c};
