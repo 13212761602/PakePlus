@@ -1,0 +1,1 @@
+const t=[];for(let e=0;e<=15;e++)t[e]=e.toString(16);function r(){let e="";for(let a=1;a<=36;a++)switch(a){case 9:case 14:case 19:case 24:{e+="-";break}case 15:{e+=4;break}case 20:{e+=t[Math.random()*4|8];break}default:e+=t[Math.trunc(Math.random()*16)]}return e.replaceAll("-","")}export{r as b};
